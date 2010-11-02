@@ -4,9 +4,6 @@ This project creates a networked IOS (Instructor Operating Station) for controll
 
 There task was to produce an instructors station for the Xplane flight simulator using blue sky thinking, new technologies not currently implemented by us, such as METARs and then produce a prototype.
 
-* [EES](http://www.engineering-education.org.uk/)
-* [Xplane](http://www.x-plane.com)
-
 ## Components
 
 The application is split up into 5 sections to allow the system to be run across a network. This has been done to separate graphic intensive operations from the IOS. The IOS can then run on multiple machines to make use of 2+ touch screen monitors.
