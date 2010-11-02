@@ -2,7 +2,7 @@
 
 This project creates a networked IOS (Instructor Operating Station) for controlling the environment inside of [Xplane](http://www.x-plane.com/index_desktop.html). It was built over a week to help 6th form students from a local school learn about Thales Training and Simulation, Engineering, Programming/Software and putting a large project together.
 
-There task was to produce an instructors station for the Xplane flight simulator using blue sky thinking, new technologies not currently implemented by us, such as METARs and produce a prototype.
+There task was to produce an instructors station for the Xplane flight simulator using blue sky thinking, new technologies not currently implemented by us, such as METARs and then produce a prototype.
 
 * [EES](http://www.engineering-education.org.uk/)
 * [Xplane](http://www.x-plane.com)
