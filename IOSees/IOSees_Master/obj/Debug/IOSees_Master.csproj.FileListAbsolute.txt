@@ -1,0 +1,11 @@
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Debug\IOSees_Master.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Debug\IOSees_Master.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Debug\Lidgren.Network.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Debug\Lidgren.Network.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\IOSees_Master.Properties.Resources.resources
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\IOSees_Master.csproj.GenerateResource.Cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\IOSees_Master.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\IOSees_Master.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\IOSees_Master.IOS_Master.resources
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Debug\IOSees_Master.MasterForm.resources

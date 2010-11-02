@@ -1,0 +1,6 @@
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\Lidgren.Network\bin\Release\Lidgren.Network.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\Lidgren.Network\bin\Release\Lidgren.Network.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\Lidgren.Network\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\Lidgren.Network\obj\Release\Lidgren.Network.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\Lidgren.Network\obj\Release\Lidgren.Network.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\Lidgren.Network\bin\Release\Lidgren.Network.dll.config

@@ -1,0 +1,11 @@
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\bin\Debug\IOSees_Slave.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\bin\Debug\IOSees_Slave.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\bin\Debug\Lidgren.Network.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\bin\Debug\Lidgren.Network.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\obj\Debug\IOSees_Slave.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\obj\Debug\IOSees_Slave.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\obj\Debug\IOSees_Slave.csproj.GenerateResource.Cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\obj\Debug\Forms.IOSees_Slave_Metar.MainForm.resources
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\bin\Debug\IOS.Calculator.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Slave\obj\Debug\IOSees_Slave_Wind.MainForm.resources

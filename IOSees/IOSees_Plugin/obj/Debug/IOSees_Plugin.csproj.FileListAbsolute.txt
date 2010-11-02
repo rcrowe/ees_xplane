@@ -1,0 +1,7 @@
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\bin\Debug\IOSees_Plugin.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\bin\Debug\IOSees_Plugin.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\bin\Debug\Lidgren.Network.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\bin\Debug\Lidgren.Network.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\obj\Debug\IOSees_Plugin.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Plugin\obj\Debug\IOSees_Plugin.pdb

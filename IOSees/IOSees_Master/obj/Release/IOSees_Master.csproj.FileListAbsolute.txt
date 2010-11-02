@@ -1,0 +1,11 @@
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Release\IOSees_Master.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Release\IOSees_Master.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\IOSees_Master.Properties.Resources.resources
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\IOSees_Master.csproj.GenerateResource.Cache
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\IOSees_Master.exe
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\IOSees_Master.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Release\Lidgren.Network.dll
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\bin\Release\Lidgren.Network.pdb
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\IOSees_Master.IOS_Master.resources
+C:\Documents and Settings\RC\My Documents\Visual Studio 2008\Projects\IOSees\IOSees_Master\obj\Release\IOSees_Master.MasterForm.resources
